@@ -46,6 +46,12 @@ Repo: https://github.com/STIFTMAN/Vigenere-Cpp23
 **Tech:** C++ (C++23)
 
 ---
+### Demenz-Agentur (Live-Website)
+https://www.demenz-agentur.de/  
+Full-Stack Umsetzung (technische Implementierung + Deployment).  
+Hinweis: Inhalte/Texte stammen vom Auftraggeber.
+
+---
 
 ## Lebenslauf (Kurzform)
 
