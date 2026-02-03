@@ -26,7 +26,7 @@ Ich habe mein Studium abgeschlossen und suche aktuell eine **Vollzeitstelle ab d
 ## Ausgewählte Projekte
 
 ### CVStudio (Bachelorarbeit)
-Repo: https://github.com/STIFTMAN/CVStudio
+Repo: https://github.com/danielhagemann/CVStudio
 
 **Tool zur experimentellen Bildverarbeitung**, das viel Setup- und Vergleichsarbeit abnimmt:
 - Aufbau von **Bildverarbeitungs-Pipelines**
@@ -38,7 +38,7 @@ Repo: https://github.com/STIFTMAN/CVStudio
 ---
 
 ### Vigenere-Cpp23
-Repo: https://github.com/STIFTMAN/Vigenere-Cpp23
+Repo: https://github.com/danielhagemann/Vigenere-Cpp23
 
 **C++-Library** zum **Ver- und Entschlüsseln** nach dem **Vigenère-Verfahren**.
 - klar strukturiertes API-Design
