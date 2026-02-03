@@ -63,7 +63,7 @@ Schwerpunkte: Visual Computing • Neuronale Netze & Generative KI • Full-Stac
 **Bachelorarbeit:**  
 *Konzeption, Implementierung und Evaluation eines Werkzeugs zur experimentellen Bildverarbeitung  
 mit Nachbarschaftsoperatoren und Feature-Erkennungsverfahren*  
-→ https://github.com/STIFTMAN/CVStudio
+→ https://github.com/danielhagemann/CVStudio
 
 ## Sprachen
 - Deutsch: Muttersprache  
